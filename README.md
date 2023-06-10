@@ -28,9 +28,9 @@ The questionable stuff:
 
 It's essentially an oversized linear rail, that supports only ~4 mm of travel.
 The steel rail is replaced by small rail fragments where actual contact takes place.
-The bearings act the balls, but we can get away with only 3 per side.
+The bearings take place of the balls, and we can get away with only 3 per side.
 
-In addition it a kinematic mount, meaning that it's self aligning and there is no play even if parts are not aligned precisely.
+In addition it's a kinematic mount, meaning that it's self aligning and there is no play even if the parts are not aligned precisely.
 The two middle bearings ride on socket scew heads providing a somewhat flat surface and adjustability to tension the mount.
 
 ![Preview](/Images/explain1.png)
