@@ -13,8 +13,6 @@ The cool stuff over regular Tapchanger:
 - significantly cheaper to make, because no rail needed
 
 
-
-
 The questionable stuff:
 
 - def less rigid than the linear rail
@@ -37,10 +35,15 @@ The two middle bearings ride on socket scew heads providing a somewhat flat surf
 ![Preview](/Images/explain2.png)
 
 
+# Community
+
+Improvement ideas - bugs, pull requests welcome. Or find me iu [Voron Toolvchangers Discord](https://discord.gg/KfdJ25vk)
 
 # Building
 
-This is **work in progress**, you will need to borrow a lot of stuff from the [Tapchanger](https://github.com/viesturz/) repo.
+You will need to borrow a lot of stuff from the [Tapchanger](https://github.com/viesturz/) repo.
+
+Build instructions coming...
 
 # BOM
 
@@ -57,9 +60,9 @@ All standard Voron stuff.
  - Tap optical sensor
  - 2x m3x4 buttonhead screws to secure the sensor
  - 2x m3x6 SHCS screws
- - 4x steel pads - 10x4mm 1.5mm thick, im cutting them from a stock piece from local hw store
+ - 4x steel pads - 10x4mmx1.5mm, im cutting them from a stock piece from local hw store
  - some glue to hold the pads in place
-
+ - 6x3 round magnet
 
  **Dock:**
 
@@ -67,9 +70,21 @@ All standard Voron stuff.
  - 2x m3x6, 1x m3x8
  - Some silicone for the nozzle pad
  - a small piece of spring to hold up the nozzle pad
- - 2x 5x2 round magnets - attached to the miniSB crew heads
+ - 2x 6x3 round magnets - attached to the miniSB cowling
+
+# Credits
+
+- Basic models from [Foron Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner) and [Voron 0](https://github.com/VoronDesign/Voron-0).
+- Mini SB Orbiter cowling form [mozartlovescats](https://www.printables.com/model/366337-voron-02-orbiter-20-trianglelab-chc-mini-stealthbu).
+- Mini SB LGX lite cowling form [MC](https://www.printables.com/model/395933-voron-02-mini-stealthburner-remix-for-lgx-light-ex/files).
 
 # Revision history:
+
+## V1 - This should work
+
+- Redesigned and optimized - not compatible with V0
+- Significanly more rigid
+- Supports both Mini and full size Stealthburner
 
 ## V0 - Initial drop
  
