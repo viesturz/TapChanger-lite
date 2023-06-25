@@ -42,6 +42,10 @@ The two middle bearings ride on socket scew heads providing a somewhat flat surf
 
 This is **work in progress**, you will need to borrow a lot of stuff from the [Tapchanger](https://github.com/viesturz/) repo.
 
+# Klipper config
+
+See [Tapchanger repo](https://github.com/viesturz/tapchanger/tree/main/klipper).
+
 # BOM
 
 All standard Voron stuff.
