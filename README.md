@@ -4,7 +4,6 @@ A lightweight toolchanger for Voron 2. A rewrite from [Tapchanger](https://githu
 
 The cool stuff over regular Tapchanger:
 
-
 - lightweight, the shuttle + mounting plate is only 42g, half of normal Tap weight
 - self locating and tolerant to ~1mm offsets on all axis.
 - zero Z travel on the hotend when docking, allowing to install wipe pads, etc
@@ -12,15 +11,11 @@ The cool stuff over regular Tapchanger:
 - no moving parts, except the bearings
 - significantly cheaper to make, because no rail needed
 
-
 The questionable stuff:
 
 - def less rigid than the linear rail
-- shuttle heatset inserts require accurate angle to get right.
 
-![Preview](/Images/plate.jpg)
-![Preview](/Images/shuttle.jpg)
-![Preview](/Images/dock.jpg)
+![Preview](/Images/hotend-shuttle.jpg)
 
 # How does this work?
 
@@ -37,44 +32,19 @@ The two middle bearings ride on socket scew heads providing a somewhat flat surf
 
 # Community
 
-Improvement ideas - bugs, pull requests welcome. Or find me iu [Voron Toolvchangers Discord](https://discord.gg/KfdJ25vk)
+Improvement ideas - bugs, pull requests welcome. Or find me on [Voron Toolvchangers Discord](https://discord.gg/KfdJ25vk), or file bugs here.
 
-# Building
+See Tapchanger [youtube channel](https://www.youtube.com/playlist?list=PLqU7kX5nUJDRDw5z0NLwJ22OkV6fbjnSW).
 
-You will need to borrow a lot of stuff from the [Tapchanger](https://github.com/viesturz/) repo.
+# Build guide
 
-Build instructions coming...
+Check the [bom](./Bom.md).
 
-# Klipper config
+Start with [Printing](./Print%20Guide.md)
 
-See [Tapchanger repo](https://github.com/viesturz/tapchanger/tree/main/klipper).
+Assembly instructions coming...
 
-# BOM
-
-All standard Voron stuff.
-
-**Shuttle:**
- 
- - X6 [F623-RS](https://google.com/search?q=F623-RS) Bearings, flanges are optional. Same as regular Voron BOM.
- - X6 M3x8 buttonhead screws, m3 washers and heatset inserts.
- - 6x3mm round magnet
-
-**Toolhead mounting plate:**
-
- - Tap optical sensor
- - 2x m3x4 buttonhead screws to secure the sensor
- - 2x m3x6 SHCS screws
- - 4x steel pads - 10x4mmx1.5mm, im cutting them from a stock piece from local hw store
- - some glue to hold the pads in place
- - 6x3 round magnet
-
- **Dock:**
-
- - 3x heatset inserts
- - 2x m3x6, 1x m3x8
- - Some silicone for the nozzle pad
- - a small piece of spring to hold up the nozzle pad
- - 2x 6x3 round magnets - attached to the miniSB cowling
+Firmware - see [Tapchanger repo](https://github.com/viesturz/tapchanger/tree/main/klipper).
 
 # Credits
 
