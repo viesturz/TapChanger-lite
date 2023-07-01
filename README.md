@@ -54,6 +54,11 @@ Firmware - see [Tapchanger repo](https://github.com/viesturz/tapchanger/tree/mai
 
 # Revision history:
 
+## V1.1 - Verified and cleaned up.
+
+- Minor model tweaks for better fit and printability.
+
+
 ## V1 - This should work
 
 - Redesigned and optimized - not compatible with V0
