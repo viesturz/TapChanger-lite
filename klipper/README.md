@@ -9,7 +9,7 @@ Long term I'm looking to upstream the changes in klipper and Klipper_ToolChanger
 
 ## Installing
 
-- install [ToolChanger extension](https://github.com/TypQxQ/Klipper_ToolChanger)
+- I have a custom github repo with toolchanger extensions. Switch the Klipper install to: https://github.com/viesturz/klipper/tree/toolchanger
 - use the config as a template for your own config
 
 Optional:
