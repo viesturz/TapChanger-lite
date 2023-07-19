@@ -39,6 +39,7 @@ Listing extra items beyond stock toolhead
  - some glue to hold the pads in place, PVA glue works as a start, exoxy for more permanent solution.
  - 2x 6x3 round magnet
  - 2x 5x2 round magnets - attached to the SB cowling screw heads
+ - Optionally 4x 3mmx14mm steel rods (shelf dowel pins work well), instead of the 4x steel pads and glue
  
 ### Dock
 
