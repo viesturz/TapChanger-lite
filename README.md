@@ -10,10 +10,7 @@ The cool stuff over Tapchanger:
 - 3x faster dock sequence with only 16mm z travel, still need to move up to the tool parking area though
 - no moving parts, except the bearings
 - significantly cheaper to make, no rail needed
-
-The questionable stuff:
-
-- less rigid than the linear rail, performing quite well so far however.
+- similar rigidness than the linear rail
 
 ![Preview](/Images/hotend-shuttle.jpg)
 
@@ -52,6 +49,15 @@ See Tapchanger [youtube channel](https://www.youtube.com/playlist?list=PLqU7kX5n
 - Mini SB LGX lite cowling form [MC](https://www.printables.com/model/395933-voron-02-mini-stealthburner-remix-for-lgx-light-ex/files).
 
 # Revision history:
+
+## V2 - Rods version added.
+
+A new experimental version using 3mm rods. See -rods files. Shuttle and mount plates changed, the rest is same.
+
+- Easier to assemble
+- Tension adjustment screws easily available
+- Runs smoother
+- Using smaller 3x8x3 bearings - saves 10 grams and even more rigid.
 
 ## V1.1 - Verified and cleaned up.
 
