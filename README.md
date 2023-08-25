@@ -53,6 +53,18 @@ See Tapchanger [youtube channel](https://www.youtube.com/playlist?list=PLqU7kX5n
 
 # Revision history:
 
+=======
+## V2 - Rods version added.
+
+A new experimental version using 3mm rods. See -rods files. Shuttle and mount plates changed, the rest is same.
+
+![Preview](/Images/rods-photo.jpg)
+
+- Easier to assemble
+- Tension adjustment screws easily available
+- Runs smoother
+- Using smaller 3x8x3 bearings - saves 10 grams and even more rigid.
+
 ## V1.1 - Verified and cleaned up.
 
 - Minor model tweaks for better fit and printability.
