@@ -59,7 +59,7 @@ A new experimental version using 3mm rods. See -rods files. Shuttle and mount pl
 - Easier to assemble
 - Tension adjustment screws easily available
 - Runs smoother
-- Using smaller 3x8x3 bearings - saves 10 grams and even more rigid.
+- Using smaller 3x8x3 bearings - saves 5 grams and even more rigid.
 
 ## V1.1 - Verified and cleaned up.
 
