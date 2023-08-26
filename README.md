@@ -60,6 +60,7 @@ A new experimental version using 3mm rods. See -rods files. Shuttle and mount pl
 - Tension adjustment screws easily available
 - Runs smoother
 - Using smaller 3x8x3 bearings - saves 5 grams and even more rigid.
+- Even load distribution between the bearings by adjusting the angles to 26 and 64 degrees.
 
 ## V1.1 - Verified and cleaned up.
 
