@@ -50,6 +50,11 @@ See Tapchanger [youtube channel](https://www.youtube.com/playlist?list=PLqU7kX5n
 
 # Revision history:
 
+
+## V2.1 - Rods fixes.
+
+Various fixes to refine the rods version. Ready for general testing.
+
 ## V2 - Rods version added.
 
 A new experimental version using 3mm rods. See -rods files. Shuttle and mount plates changed, the rest is same.
