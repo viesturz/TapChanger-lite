@@ -10,11 +10,11 @@ Long term I'm looking to upstream the changes in klipper and Klipper_ToolChanger
 ## Installing
 
 - I have a custom github repo with toolchanger extensions. Switch the Klipper install to: https://github.com/viesturz/klipper/tree/toolchanger
+- copy the klippy/extras/*.py files to ${KLIPPER_PATH}/klippy/extras
 - use the config as a template for your own config
 
 Optional:
 
-- autodetect active tool copy the toolklippy/tool_probe* files to  ${KLIPPER_PATH}/klippy/
 - nozzle [alignment probe](https://github.com/viesturz/NozzleAlign)
 
 ## Z offsets
